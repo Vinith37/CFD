@@ -17,7 +17,7 @@ tol = 1e-6;
 Max_Iteration = 100000;
 
 %Defining grid size
-grid_size = [81];
+grid_size = [161];
 
 % Storage for center temperature
 center_T = 75*ones(size(grid_size));
